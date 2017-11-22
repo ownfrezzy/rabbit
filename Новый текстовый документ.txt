@@ -1,0 +1,5 @@
+ li:nth-child(1) a { background-image: url(images/home-icon.png); }
+ li:nth-child(2) a { background-image: url(images/about-icon.png); }
+ li:nth-child(3) a { background-image: url(images/work-icon.png); }
+ li:nth-child(4) a { background-image: url(images/blog-icon.png); }
+ li:nth-child(5) a { background-image: url(images/contact-icon.png)}
